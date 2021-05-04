@@ -1,0 +1,13 @@
+a,b,d,c,e
+
+push a, print a
+push b, print b
+push d, print d
+push c, print c
+pop c
+push e, print e
+pop e
+pop d
+pop b
+pop a
+

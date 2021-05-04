@@ -1,0 +1,22 @@
+SL,Client_Name,Account_Type,Gender,Balance
+1,Neelam,Saving,Female,120000
+2,Vasudha,Current,Female,40000
+3,David Smith,Current,Male,379000
+4,Maria,Saving,Female,56000
+5,Mark Lee,Saving,Male,93500
+6,Jonathan,Current,Male,5900
+7,Daniel Williams ,Saving,Male,2300
+8,Mitika,Current,Male,124888
+9,Rohan,Current,Male,59450
+10,Geeta,Saving,Female,487600
+11,Vishakha,Saving,Female,42000
+13,Karan,Current,Male,15000
+14,Varun,Recurring,Male,9000
+15,Mohan,Recurring,Male,10000
+16,Pavan,Current,Male,14000
+17,Leena,Recurring,Female,200000
+18,Meena,Recurring,Female,125000
+19,Puja,Recurring,Female,140000
+20,Neha,Recurring,Female,42000
+21,Vasant,Current,Male,19000
+22,Seema,Recurring,Female,14000
