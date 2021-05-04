@@ -1,0 +1,2 @@
+# Data-Processing-using-Python
+This repository includes the Introduction to Data Processing using Python. It contains various topics like File Handling, MySQL and NoSQL databases with Python, Flask with Python, Data Visualization topics like Pie Chart, Bar Graph, Scatter Plot, Bubble Plot, 3D Charts, Heatmaps, Cartopy for Geographical Maps, and a lot more. It also utilises various Python libraries like numpy, pandas, matplotlib, scipy, flask, cartopy, mysql, to name a few.
